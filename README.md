@@ -52,16 +52,6 @@ Over the 50 days, I’ll be covering:
 
 ---
 
-## 📅 Progress  
-I’ll update this repo daily with my learnings.  
-- [Done] Day 1 →you will learn SimpleImputer for missing values,LabelEncoder,StandardScaler  
-- [ ] Day 2 → Linear Regression Model 
-- [ ] Day 3 → …  
-- …  
-- [ ] Day 50 → 🎉  
-
----
-
 ## 🔗 Connect with Me  
 If you’re also doing the challenge or just curious, feel free to connect!  
 
